@@ -1,0 +1,17 @@
+
+.container{
+    margin-left: 160px;
+}
+ h2{
+    margin-left: 160px;
+}
+td{
+    border: 2px solid black;
+    width: 40px;
+    height: 40px;
+    text-align:center;
+}
+
+.hide{
+    border:none;
+}
